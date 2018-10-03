@@ -3,3 +3,8 @@ p {
   font-size: 1em;
   line-height: 1.5em;
 }
+
+figcaption {
+  font-weight: normal 0.75/1.5em Georgia, "New Times Roman", serif;
+
+}
